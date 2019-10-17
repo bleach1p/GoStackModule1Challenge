@@ -1,0 +1,17 @@
+{
+  "name": "desafioModulo1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bleach1p/GoStackModule1Challenge",
+  "author": "hermanyjohann@gmail.com <hermanyjohann@gmail.com>",
+  "license": "MIT",
+    "scripts":{
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
